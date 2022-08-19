@@ -29,3 +29,29 @@ We even tinkered with how to make the text uppercase, and how to remove the unde
 <p>
 We still create a border, round the corner of the border, change the behavior of elements with hover and active. Finally, we changed our footer, putting a background image automatically repeated and always changing the font size and text size.
 </p>
+
+<h2>Third Part</h2>
+
+<p>
+We created the complete contact page. We created a complex form, a table with opening hours from a page that did not exist. We copied the header and footer from the previous page and created the entire contents of this contact page.
+</p>
+
+<p>
+On the contact page our header was imported, even so we improved the accessibility of our image by creating an alternative for it. We created all our form inside our main, and we saw the form tag, the label tag, the input tag, the types of input that exist. How do we create the relationship between a label and an input.
+</p>
+
+<p>
+We use the classes again, we understand how to make an input mandatory. How to leave an example text in the input. How to create a box for the user to write a text. How to still create good semantics within the form with the fieldset and the legend. How to create a type, a selection of various options within our form. How to use the checkbox, input of type radio. How to create a button, and we still style this button
+</p>
+
+<p>
+Finally, we created an extremely semantic table, with all the appropriate content to have this perfect code. In our CSS we still had the creation of all the style of the table with the tags we learned, and all the style of the form. Also learning how to create a duplication of the same style for two elements, how to move the entire form, we reinforced the use of the display block, we reinforced the use of fonts and spacing. And we still learned in CSS how to create transitions and transformations in our elements.
+</p>
+
+<p>
+
+</p>
+
+<p>
+
+</p>

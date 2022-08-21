@@ -47,11 +47,5 @@ We use the classes again, we understand how to make an input mandatory. How to l
 <p>
 Finally, we created an extremely semantic table, with all the appropriate content to have this perfect code. In our CSS we still had the creation of all the style of the table with the tags we learned, and all the style of the form. Also learning how to create a duplication of the same style for two elements, how to move the entire form, we reinforced the use of the display block, we reinforced the use of fonts and spacing. And we still learned in CSS how to create transitions and transformations in our elements.
 </p>
-
-<p>
-
-</p>
-
-<p>
-
-</p>
+<br>
+<h4>finished</h4>
